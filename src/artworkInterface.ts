@@ -1,6 +1,6 @@
 export interface Artwork
 {
     title:string;
-    year:Date;
+    year:number;
     price:number;    
 }
